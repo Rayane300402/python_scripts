@@ -94,7 +94,6 @@ def imagebbFetch(file_path, api_key):
     return None
 
 def configureImageBB():
-    print("Step 2: Configure Cloudinary")
     load_dotenv()
     
     api_key = os.getenv("IMGBB_API_KEY")
