@@ -6,5 +6,9 @@ A python script built to help me see how a notification will look like on Androi
 
 
 ## Img to Url
-Using IMageBB api, created terminal-style img to url. Iterates for multiple uses
+Using ImageBB api, created terminal-style img to url. Iterates for multiple uses
 Goal: Make it into a GUI
+
+
+## Img to Url App
+Using ImageBB api, created with tkinter a window with minimal UI to browse for img in device, and show it in UI + convert and copy btn with toast and text live update
